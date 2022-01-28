@@ -33,4 +33,4 @@ OR
 
 GET the drive link.
 
-![https://drive.google.com/file/d/1u1lKQIBX17h7568eAW__QHWnovtvwJlc/view?usp=sharing](https://drive.google.com/file/d/1u1lKQIBX17h7568eAW__QHWnovtvwJlc/view?usp=sharing)]
+![https://drive.google.com/file/d/1u1lKQIBX17h7568eAW__QHWnovtvwJlc/view?usp=sharing](https://drive.google.com/file/d/1u1lKQIBX17h7568eAW__QHWnovtvwJlc/view?usp=sharing)
